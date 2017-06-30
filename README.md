@@ -1,2 +1,3 @@
-# uml_architecture_poc
-Architecture POC (Proof of Concept) UML Model
+# Architecture POC (Proof of Concept) UML Model
+## o Enterprise MVC 分層結構 ##
+
